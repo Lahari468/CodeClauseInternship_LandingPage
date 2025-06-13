@@ -3,7 +3,6 @@
 
 **Foodify** is a responsive and visually stunning food delivery landing page built with HTML, CSS, and JavaScript. It showcases modern web design practices with smooth animations, mobile responsiveness, and interactive features.
 
-
 ## ✨ Features
 
 - 🍕 **Modern Hero Section** — Beautiful header with CTA buttons and food image
